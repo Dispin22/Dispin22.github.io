@@ -4,8 +4,9 @@
   text-align: center;
 }
 #connect {
-  border-bottem: 5px solid red;
+  border-bottom: 5px solid red;
   background-color: lightgrey;
+  float: left;
 }
 
 
