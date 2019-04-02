@@ -3,5 +3,8 @@
   color: white;
   text-align: center;
 }
+#connect {
+  border: ridge 5px black; 
+}
 
 
